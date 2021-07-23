@@ -1,0 +1,142 @@
+48 93
+0;Atlanta;blue;110;110
+1;Washington;blue;130;105
+2;New York;blue;150;85
+3;Montreal;blue;120;80
+4;Chicago;blue;90;80
+5;San Francisco;blue;40;85
+6;London;blue;275;65
+7;Madrid;blue;265;105
+8;Paris;blue;295;85
+9;Essen;blue;305;60
+10;Milan;blue;315;75
+11;St. Petersburg;blue;345;50
+12;Los Angeles;yellow;40;120
+13;Mexico City;yellow;70;140
+14;Miami;yellow;120;130
+15;Bogota;yellow;125;180
+16;Lima;yellow;120;220
+17;Santiago;yellow;135;265
+18;Buenos Aires;yellow;175;270
+19;Sao Paulo;yellow;195;240
+20;Lagos;yellow;290;170
+21;Kinshasa;yellow;315;205
+22;Johannesburg;yellow;340;265
+23;Khartoum;yellow;340;165
+24;Algiers;black;295;125
+25;Cairo;black;330;125
+26;Istanbul;black;340;90
+27;Baghdad;black;370;100
+28;Riyadh;black;380;145
+29;Karachi;black;410;125
+30;Tehran;black;400;80
+31;Moscow;black;370;70
+32;Delhi;black;450;115
+33;Mumbai;black;435;150
+34;Chennai;black;465;180
+35;Kolkata;black;490;115
+36;Bangkok;red;500;155
+37;Jakarta;red;520;210
+38;Ho Chi Minh City;red;535;190
+39;Sydney;red;590;270
+40;Manila;red;550;160
+41;Hong Kong;red;520;145
+42;Taipei;red;540;135
+43;Osaka;red;570;120
+44;Tokyo;red;580;100
+45;Shanghai;red;520;105
+46;Beijing;red;510;80
+47;Seoul;red;540;95
+5 12
+12 4
+13 4
+14 0
+14 1
+12 39
+19 7
+23 25
+7 24
+8 24
+10 26
+11 26
+11 31
+5 44
+5 40
+35 41
+35 36
+34 36
+37 34
+36 37
+37 39
+39 40
+40 38
+38 37
+38 36
+41 36
+41 38
+41 40
+41 42
+41 45
+40 42
+42 45
+42 43
+43 44
+45 44
+44 47
+47 46
+46 45
+45 47
+24 25
+24 26
+25 26
+26 27
+25 27
+25 28
+27 28
+26 31
+31 30
+30 27
+28 29
+27 29
+30 29
+30 32
+29 32
+29 33
+33 32
+33 34
+34 35
+35 32
+32 34
+19 20
+20 21
+20 23
+21 23
+21 22
+23 22
+15 19
+18 19
+15 18
+16 15
+16 17
+13 16
+13 15
+14 15
+12 13
+13 14
+5 4
+0 4
+0 1
+1 3
+3 4
+3 2
+2 1
+2 7
+2 6
+6 7
+6 8
+7 8
+6 9
+8 9
+9 10
+8 10
+9 11

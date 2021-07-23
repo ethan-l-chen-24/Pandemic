@@ -1,0 +1,30 @@
+12 17
+0;Atlanta;blue;0;0
+1;Washington;blue;0;0
+2;New York;blue;0;0
+3;Montreal;blue;0;0
+4;Chicago;blue;0;0
+5;San Francisco;blue;0;0
+6;London;blue;0;0
+7;Madrid;blue;0;0
+8;Paris;blue;0;0
+9;Essen;blue;0;0
+10;Milan;blue;0;0
+11;St. Petersburg;blue;0;0
+5 4
+0 4
+0 1
+1 3
+3 4
+3 2
+2 1
+2 7
+2 6
+6 7
+6 8
+7 8
+6 9
+8 9
+9 10
+8 10
+9 11
